@@ -11,3 +11,7 @@
 .container {
     padding: 0 2rem;
 }
+
+.blogItemP {
+    max-width: 45vw;
+}
